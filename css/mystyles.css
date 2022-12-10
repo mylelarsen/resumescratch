@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    background-color: papayawhip;
+    text-align: center;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-style: italic;
+}
+.myimg{
+    width: 50% !important;
+    text-align: center;
+}
+.myitalics{
+    font-style: italic;
+}
+.mybackground{
+    background-color: mintcream;
+}
+.border{
+    border-width: 1px;
+    border-color: black;
+}
